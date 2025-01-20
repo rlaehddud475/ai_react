@@ -1,4 +1,3 @@
-
 // 변수 - 원시타입
 let num: number
 num = 100
